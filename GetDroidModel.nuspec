@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/10/nuspec.xsd">
+  <metadata>
+    <id>GetDroidModel</id>
+    <version>1.3.0-beta.1</version>
+    <title>Get Android device model details for Xamarin</title>
+    <authors>Danny Cabrera</authors>
+    <owners>Danny Cabrera</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <licenseUrl>https://github.com/dannycabrera/GetDroidModel/blob/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/dannycabrera/GetDroidModel</projectUrl>
+    <description>Xamarin Helper Library to get the name of the current Android device.</description>
+    <summary>A Xamarin library to get the current Android device details</summary>
+    <copyright>2020</copyright>
+    <tags>Xamarin, Android, Device, Hardware</tags>
+  </metadata>
+  <files>
+    <file src="bin\Release\GetDroidModel.dll" target="lib\MonoAndroid90\GetDroidModel.dll" />
+  </files>
+</package>
