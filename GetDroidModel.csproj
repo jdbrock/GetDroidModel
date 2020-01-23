@@ -28,7 +28,7 @@
     <NeutralLanguage>es-US</NeutralLanguage>
     <Owners>Danny Cabrera</Owners>
     <PackageReleaseNotes>Includes 1,880 updates (changes + new additions). Device list now contains 20,550 devices.</PackageReleaseNotes>
-    <TargetFrameworkVersion>v4.0.3</TargetFrameworkVersion>
+    <TargetFrameworkVersion>v9.0</TargetFrameworkVersion>
 	<DisableExtraReferences>true</DisableExtraReferences>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
